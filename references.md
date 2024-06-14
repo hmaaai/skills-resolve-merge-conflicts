@@ -1,1 +1,5 @@
-Add conflicting references.md file
+
+# References
+
+* octocat 1 😈
+
